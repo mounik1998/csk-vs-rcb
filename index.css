@@ -1,0 +1,12 @@
+/* Write your code here. */
+
+.bg-color {
+  background-color: #0f172a;
+  color: #f8fafc;
+  background-size: cover;
+  height: 100vh;
+}
+.images {
+  display: flex;
+  flex-direction: row;
+}
